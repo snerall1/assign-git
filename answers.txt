@@ -1,0 +1,7 @@
+1. .gitignore files tells Git which files to ignore when commiting a project to Github repository. It should include *.class,*.jar,*.war,*.ear,*.nar for a java project.
+
+2. Fast-forward merges literally move your main branch's tip forward to the end of your feature branch. In this case, a user can simulate a fast-forward by rebasing rather than merging.
+
+3. Branching allows to branch out from the original code base and isolate the work from others. It also helps Git to easily merge versions later on.
+
+4. In a project, we can have as many remote repositories as we want but we can have only one remote with name 'origin'.
